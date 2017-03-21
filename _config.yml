@@ -7,7 +7,7 @@ description: > # Goes multiline until below
 # Color settings (hex-codes without the leading hash-tag)
 color:
   primary-dark: '#050926'
-  text-color: '#F0F7FF
+  text-color: '#F0F7FF'
   links: '#219ab3'
 
 youtube: https://www.youtube.com/channel/UCEkuXQw10MFr3eOKNfzsfrQ
