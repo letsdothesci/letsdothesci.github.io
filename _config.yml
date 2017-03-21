@@ -1,0 +1,27 @@
+# Site settings
+title: Let's Do the Science
+email: show@letsdothesci.com
+url: https://www.letsdothesci.com
+description: > # Goes multiline until below
+  A show that comments on depictions of science & technology in media & news.
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary-dark: '#000000'
+  links: '#219ab3'
+
+youtube: https://www.youtube.com/channel/UCEkuXQw10MFr3eOKNfzsfrQ
+exclude: [docker-compose.yml, README.md]
+
+# Footer settings
+footer: Data Illuminated, LLC
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/Streamweaver
+  - title: youtube
+    url: https://www.youtube.com/channel/UCEkuXQw10MFr3eOKNfzsfrQ
+
+# Build settings
+markdown: kramdown
+permalink: pretty
