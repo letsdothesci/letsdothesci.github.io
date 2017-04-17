@@ -10,7 +10,7 @@ color:
   text-color: '#F0F7FF'
   links: '#219ab3'
 
-youtube: https://www.youtube.com/channel/UCEkuXQw10MFr3eOKNfzsfrQ
+youtube: https://www.youtube.com/c/LetsDoTheScience
 playlists:
   episodes: PLQ8pzFlA6bzaqG5rFXYg8hF1Gh91Qeqw6
   shorts: PLQ8pzFlA6bzaqgCi5NsCmvXMn5oAnMZmC
@@ -24,7 +24,7 @@ social:
   - title: twitter
     url: https://twitter.com/Streamweaver
   - title: youtube
-    url: https://www.youtube.com/channel/UCEkuXQw10MFr3eOKNfzsfrQ
+    url: https://www.youtube.com/c/LetsDoTheScience
 
 # Build settings
 markdown: kramdown
